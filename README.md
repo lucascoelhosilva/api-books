@@ -13,7 +13,7 @@ Project in go created for studies
     - ```/books```  GET, POST
     - ```/books/{bookID}```  GET, PUT, DELETE
     
-4. Struct json example:
+4. Json example:
 ````
 {
 	"name": "Water for Elephants",
